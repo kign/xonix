@@ -11,7 +11,7 @@ be compiled or updated for the recent versions. Moreover, with the abundance of 
 toolkits, emergence strongly-typed languages such as `dart` or `typescript`, and
 advance built-in debugging tools I am not sure writing everything in Java still makes sense.
 
-Nevertheless, I preserve the implementation here in its original form. Fortunately, and to Google's creadit,
+Nevertheless, I preserve the implementation here in its original form. Fortunately, and to Google's credit,
 JavaScript files generated then still work today.
 
 Enjoy:
