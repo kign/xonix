@@ -18,7 +18,7 @@ Enjoy:
 
 [https://kign.github.io/xonix](https://kign.github.io/xonix)
 
-![Xonix Screenshot](https://github.com/kign/xonix/blob/main/src/net/inet_lab/xonix/public/Xonix.png?raw=true "Xonix Screenshot" )
+![Xonix Screenshot](https://github.com/kign/xonix/blob/main/src/net/inet_lab/xonix/public/Xonix1.png?raw=true "Xonix Screenshot" )
 
 
 
